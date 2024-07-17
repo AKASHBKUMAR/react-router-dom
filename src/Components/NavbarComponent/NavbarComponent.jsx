@@ -10,7 +10,7 @@ const NavbarComponent = () => {
   return (
     <BrowserRouter>
         <div className='nav-container'>
-            <Link className='nav-content' to='/'>Home</Link>
+            <Link className='nav-content' to='/react-router-dom'>Home</Link>
             <Link className='nav-content' to='/about'>About</Link>
             <Link className='nav-content' to='/department'>Department</Link>
             <Link className='nav-content' to='/events'>Events</Link>
