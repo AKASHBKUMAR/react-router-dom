@@ -7,7 +7,6 @@ const App = () => {
   return (
     <React.Fragment>
       <NavbarComponent/>
-      <HomeComponent />
       <FooterComponent/>
     </React.Fragment>
   )
